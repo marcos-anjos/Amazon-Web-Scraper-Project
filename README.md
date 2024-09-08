@@ -1,5 +1,8 @@
 <div align="center">
-    <h1>Rastreamento Automatizado de Preços na Amazon</h1>
+    <h1>Web Scraping Automatizado de Preços na Amazon</h1>
+
+    ![amazon_PNG13](https://github.com/user-attachments/assets/3d1a9fe1-d5b5-4fcd-8482-1c29daf8b668)
+
   
   <div align="center">
       <img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" />
