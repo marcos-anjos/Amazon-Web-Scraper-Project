@@ -1,11 +1,9 @@
 <div align="center">
     <h1>Web Scraping Automatizado de Preços na Amazon</h1>
 
-    ![amazon_PNG13](https://github.com/user-attachments/assets/3d1a9fe1-d5b5-4fcd-8482-1c29daf8b668)
+<img src="https://github.com/user-attachments/assets/1da1c09e-cfd8-442e-ab2d-1dfba8a478de" />
 
-  
   <div align="center">
-      <img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" />
       <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"></a>
       <a href="#"><img alt="Requests" src="https://img.shields.io/badge/Requests-FF6F00?style=for-the-badge&logo=requests&logoColor=white"></a>
       <a href="#"><img alt="BeautifulSoup" src="https://img.shields.io/badge/BeautifulSoup-FFD700?style=for-the-badge&logo=beautifulsoup&logoColor=black"></a>
